@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building full stack web applications
 - 🌱 I’m currently learning full stack development
 - ⚡ Fun fact: I used to study microbiology and molecular and cellular biology
-- 📫 How to reach me:   <a href="https://www.linkedin.com/in/carmen-lee-52061690/">
+- 📫 How to reach me:<br/>  <br/><a href="https://www.linkedin.com/in/carmen-lee-52061690/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
