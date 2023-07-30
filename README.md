@@ -37,3 +37,8 @@ Here are some ideas to get you started:
   ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white)
   ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lee2278&layout=compact&theme=github_dark)
+
